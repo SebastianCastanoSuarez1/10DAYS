@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Assassin´s Creed</string>
+    <string name="titulo1">Assassin´s Creed </string>
+    <string name="titulo2">Assassin´s Creed II</string>
+    <string name="titulo3">Assassin´s Creed BrotherHood</string>
+    <string name="titulo4">Assassin´s Creed Relevations</string>
+    <string name="titulo5">Assassin´s Creed III</string>
+    <string name="titulo6">Assassin´s Creed IV Black Flag</string>
+    <string name="titulo7">Assassin´s Creed Rogue</string>
+    <string name="titulo8">Assassin´s Creed Unity</string>
+    <string name="titulo9">Assassin´s Creed Syndicate</string>
+    <string name="titulo10">Assassin´s Creed Origins</string>
+    <string name="protagonista1">Altair</string>
+    <string name="protagonista2">Ezio Auditore</string>
+    <string name="protagonista3">Ezio Auditore</string>
+    <string name="protagonista4">Ezio Auditore</string>
+    <string name="protagonista5">Connor Ratonhnhaké:ton Kenway</string>
+    <string name="protagonista6">Edward Kenway</string>
+    <string name="protagonista7">Shay Cormac</string>
+    <string name="protagonista8">Arno Dorian</string>
+    <string name="protagonista9">Evie y Jacob Frye</string>
+    <string name="protagonista10">Bayek De Siwa</string>
+    <string name="sinopsis1">Un hombre entra en una máquina llamada Animus para revivir los recuerdos de su antepasado, un asesino del siglo XII llamado Altair.</string>
+    <string name="sinopsis2">Desmond Miles es entrenado para convertirse en un Asesino moderno a través de los recuerdos resucitados de su antepasado Ezio Auditore da Firenze, quien descubre una masiva conspiración templaria en la Italia del Renacimiento que conduce al nuevo Papa.</string>
+    <string name="sinopsis3">Desmond Miles sigue viajando por los recuerdos de Ezio Auditore, llevándolo a la Roma de principios de siglo con Ezio reconstruyendo la orden de asesinos para acabar con el tiránico gobierno de los Borgia.</string>
+    <string name="sinopsis4">Ezio viaja a Constantinopla, en el apogeo del Imperio Otomano, para descubrir la verdad sobre su antepasado, Altair, que le ayudará a recuperar una poderosa arma oculta en Masyaf, la antigua fortaleza de los asesinos.</string>
+    <string name="sinopsis5">Las colonias americanas, 1775. Es una época de disturbios civiles y agitación política en América. Mientras un nativo americano lucha por proteger su tierra y a su pueblo, encenderá las llamas de la revolución de una joven nación. 2012: Premios del Sindicato de Guionistas (WGA): Nominada a Mejor guion en un videojuego.</string>
+    <string name="sinopsis6">Es el año 1715. Los piratas controlan el Caribe y han establecido una República sin ley gobernada por la corrupción, la avaricia y la crueldad. Entre ellos convive un joven capitán llamado Edward Kenway.</string>
+    <string name="sinopsis7">Tendiendo un puente entre Assassin\'s Creed IV y III, la tragedia y el fracaso obligan a Shay Cormac a cuestionar su propio Credo. El Asesino se convierte en Templario y se embarca en una búsqueda de venganza y revelación personal, durante la Guerra de los Siete Años.</string>
+    <string name="sinopsis8">París, 1789. Juegas como Arno Victor-Dorian, un asesino durante la Revolución Francesa. Mientras la nación se desgarra, Arno desenmascarará a los verdaderos poderes de la Revolución.</string>
+    <string name="sinopsis9">La historia se desarrolla en París, 1789. Juegas como Arno Victor-Dorian, un asesino durante la Revolución Francesa. Mientras la nación se desgarra, Arno desenmascarará a los verdaderos poderes de la Revolución</string>
+    <string name="sinopsis10">Precuela de la saga Assassin\'s Creed ambientada en el Egipto del 48 a.C., donde Bayek, un Medjay, inicia la fundación de la Hermandad de Asesinos</string>
+</resources>
